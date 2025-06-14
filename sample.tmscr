@@ -1,0 +1,4 @@
+init() {
+  var s = 11 + 2;
+  printf("Hello, world:%d", s);
+}
