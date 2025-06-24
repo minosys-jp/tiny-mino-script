@@ -1,4 +1,6 @@
 init() {
   var s = 11 + 2;
-  printf("Hello, world:%d", s);
+  if (s >= 1) {
+    printf("Hello, world:%d", s);
+  }
 }
